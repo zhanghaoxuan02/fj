@@ -8,3 +8,8 @@
  "name" = "飞驰人生3-1080P"
  "link" = https://pan.mcbebbs.cn/f/y1jIl/feichirensheng_8bit.mp4
 }
+{
+ "id" = 3
+ "name" = "飞驰人生3-1080P"
+ "link" = https://pan.mcbebbs.cn/f/dKGTq/%E7%86%8A%E5%87%BA%E6%B2%A1%E5%B9%B4%E5%B9%B4%E6%9C%89%E7%86%8A.mp4
+}
